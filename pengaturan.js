@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "morpic",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyAq2tziHIgPoalGtnre6bZza0CznPXHeGE",
     whatsappAdmin: "082344273650" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
